@@ -52,7 +52,7 @@
 ### Something about me:
 
 * I love to learn new things, have new experiences, be in continuous professional and personal growth, to know new people, the global diversity and culture.
-* I like to play piano, even though I don't play like I would. I love to travel, go to parks, theater, listen to music, watch tv series and movies, drink a lot of tea or coffe. 
+* I like to play piano, even though I don't play like I would. I love to travel, go to parks, theater, listen to music, watch tv series and movies, drink a lot of tea or coffee. 
 
 <br/>
 
