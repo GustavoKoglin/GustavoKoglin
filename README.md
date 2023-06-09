@@ -6,7 +6,7 @@
 
  <br/>
  
-[![midnight-purple](https://github-readme-stats.vercel.app/api?username=gustavokoglin&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple)
+![midnight-purple](https://github-readme-stats.vercel.app/api?username=gustavokoglin&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoKoglin&layout=midnightpurple)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
