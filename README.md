@@ -6,7 +6,7 @@
 
  <br/>
  
- [calm]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=calm
+ [calm]:https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=calm
  
 
 ![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GustavoKoglin&show_icons=true&theme=midnight-purple)
