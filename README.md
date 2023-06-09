@@ -12,7 +12,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoKoglin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
-| `algolia` ![algolia][algolia] | `great-gatsby` ![great-gatsby][great-gatsby] | `darcula` ![darcula][darcula] |
+![great-gatsby](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=great-gatsby)
 
 ### Technologies I use:
 
