@@ -7,12 +7,10 @@
  <br/>
  
 
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoKoglin&show_icons=true&theme=midnight-purple)
+![midnight-purple](https://github-readme-stats.vercel.app/api?username=GustavoKoglin&show_icons=true&theme=midnight-purple)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoKoglin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
-
-![great-gatsby](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=great-gatsby)
 
 ### Technologies I use:
 
