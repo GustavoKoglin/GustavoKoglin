@@ -6,10 +6,8 @@
 
  <br/>
  
- ![calm](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=calm)
- 
-
-![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GustavoKoglin&show_icons=true&theme=midnight-purple)
+[midnight-purple]: https://github-readme-stats.vercel.app/api?username=gustavokoglin&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple
+[midnight-purple_repo]: https://github-readme-stats.vercel.app/api/pin/?username=gustavokoglin&repo=github-readme-stats&cache_seconds=86400&theme=midnight-purple
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoKoglin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
