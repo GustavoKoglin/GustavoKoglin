@@ -6,7 +6,7 @@
 
  <br/>
  
- [midnight-purple]: https://github-readme-stats.vercel.app/api?username=GustavoKoglin&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple
+ ![midnight-purple](https://github-readme-stats.vercel.app/api?username=GustavoKoglin&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple)
 
 ![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoKoglin&show_icons=true&theme=highcontrast)
 
