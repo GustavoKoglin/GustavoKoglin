@@ -7,7 +7,7 @@
  <br/>
  
 
-![midnight-purple](https://github-readme-stats.vercel.app/api?username=GustavoKoglin&show_icons=true&theme=midnight-purple)
+!["Gustavo's GitHub Stats"](https://github-readme-stats.vercel.app/api?username=GustavoKoglin&show_icons=true&theme=midnight-purple)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoKoglin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
