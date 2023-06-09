@@ -5,8 +5,10 @@
  <<< I am studying Bachelor's Degree in Computer Engineering in the 3rd Semester (3/10) >>>
 
  <br/>
+ 
+ [midnight-purple]: https://github-readme-stats.vercel.app/api?username=GustavoKoglin&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoKoglin&show_icons=true&theme=highcontrast)
+![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoKoglin&show_icons=true&theme=highcontrast)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoKoglin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
