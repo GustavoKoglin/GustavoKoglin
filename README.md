@@ -62,7 +62,7 @@
 ### About me:
 * Always using technologies, since I was 13 years old, I satarted to giving I.T services to people.
 * Started to programming at college, it was in January, 2022, but before programming, I had other jobs too, it is irrelevant, but  I was already booked by a modeling agency,
-  I took an acting course at Macunaima School in São Paulo - SP, Brazil, but I didn't get to the point of obtaining Professional Registration with the Regional Labor Office (known as DRT - Delegacia Regional do Trabalho, in Brazil).
+  I took an acting course at Macunaima School in São Paulo - SP, Brazil, but I didn't get to the point of obtaining Professional Registration with the Regional Labor Office (known as [register] DRT - Delegacia Regional do Trabalho, in Brazil).
   
 * I am always looking to learn new things, have new experiences, be in continuous professional and personal growth, to know new people, the global diversity and culture.
 
