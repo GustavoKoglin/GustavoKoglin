@@ -1,19 +1,21 @@
 ### Hello, my name is Gustavo Koglin, but you can call me Guss (as eryone call me)! 👋 
-<br/>
+
 <br/>
 
  <<< I am studying Bachelor's Degree in Computer Engineering in the 5th Semester (5/10). >>>
 
  <br/>
- <br/>
  
 ![radical](https://github-readme-stats.vercel.app/api?username=GustavoKoglin&show_icons=true&theme=radical)
 <br/>
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoKoglin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+<br/>
 <br/>
 
 ### Technologies I use at now:
-<div style="display: inline_block"><br/>
+<div style="display: inline_block">
     <img align="center" alt="DotNetr" src= "https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
     <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
     <img align="center" alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
@@ -52,15 +54,20 @@
     <img align="center" alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
     <img align="center" alt="SAP" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
 </div>
+<br/>
+<br/>
 
 <br/>
 
-### Something about me:
-
-* I'm always looking to learn new things, have new experiences, be in continuous professional and personal growth, to know new people, the global diversity and culture.
+### About me:
+* Always using technologies, since I was 13 years old, I satarted to giving I.T services to people.
+* Started to programming at college, it was in January, 2022, but before programming, I had other jobs too, it is irrelevant, but  I was already booked by a modeling agency,
+  I took an acting course at Macunaima School in São Paulo - SP, Brazil, but I didn't get to the point of obtaining Professional Registration with the Regional Labor Office (known as DRT - Delegacia Regional do Trabalho, in Brazil).
+  
+* I am always looking to learn new things, have new experiences, be in continuous professional and personal growth, to know new people, the global diversity and culture.
 
 ### Hobbies:
-* I like to play piano, even though I don't play like I would. I love to travel, go to parks, theater, listen to music, watch tv series and movies, drink a lot of tea and coffee. 
+* I like to play piano, even though I don't play like I would. I love to travel, go to parks, theater, listen to music, watch tv series and movies on streaming, drink a lot of tea and coffee. 
 
 <br/>
 
