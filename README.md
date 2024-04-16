@@ -67,7 +67,7 @@
 * I am always looking to learn new things, have new experiences, be in continuous professional and personal growth, to know new people, the global diversity and culture.
 
 ### Hobbies:
-* I like to play piano, even though I don't play like I would. I love to travel, go to parks, theater, listen to music, watch tv series and movies on streaming, drink a lot of tea and coffee. 
+* I like to play piano, even though I don't play like I would like to. I love to travel, go to parks, theater, listen to music, watch tv series and movies on streaming, drink a lot of tea and coffee, go to gym, swimming classes...
 
 <br/>
 
