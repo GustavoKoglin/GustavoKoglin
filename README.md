@@ -10,7 +10,6 @@
 
 [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoKoglin&layout=compact&theme=radical&langs_count=6&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=GustavoKoglin&theme=radical&hide_border=true&locale=pt-br)
 
 ---
 
