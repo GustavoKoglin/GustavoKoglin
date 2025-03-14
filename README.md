@@ -2,7 +2,7 @@
 
 <br/>
 
-<<< Estou cursando Bacharelado em Engenharia de Software no 4º semestre (4/7). >>>  
+<<< Estou cursando Bacharelado em Engenharia de Software no 4º semestre, com duração total de 7 semestres e previsão de formação para agosto de 2026. >>>  
 
 <br/>
 
