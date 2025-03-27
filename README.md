@@ -6,7 +6,7 @@
 
 <br/>
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GustavoKoglin&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GustavoKoglin&show_icons=true&theme=tokyonight&include_all_commits=true&ramdom=123&hide_border=true&locale=pt-br)
 
 [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoKoglin&layout=compact&theme=radical&langs_count=6&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
