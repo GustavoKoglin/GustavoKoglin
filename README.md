@@ -60,17 +60,28 @@
 
 ---
 
-### 📌 Sobre:
+### 👋 Sobre mim
+Sou Gustavo Koglin, Analista Desenvolvedor de Sistemas Jr. na Tata Consultancy Services, entusiasta de tecnologia, inovação, robótica e IoT (Internet das Coisas). Estou sempre em busca de novos desafios e oportunidades de aprendizado, seja na área acadêmica, profissional ou em projetos pessoais.
 
-Iniciei minha carreira na área da tecnologia em janeiro de 2022, hoje estou cursando o **4º (quarto) Semestre em Engenharia de Software** pela Anhanguera (são 7 semestres), e a previsão de formação é para agosto de 2026.
+💡 Principais projetos e iniciativas:
 
-Aficionado por **robótica e IoT (Internet of Things)**, tenho um projeto de protótipo criado com **Arduino** para automação de hidrômetro inteligente. Já apresentei **Artigo Científico** na faculdade (sobre o gasto energético do Brasil nos últimos 11 anos) e tenho meu site desenvolvido em **Angular e hospedado na Azure**, a **"Foreign Technologies"**.
+💧 [IrrigaCalc](https://www.irrigacalc.net.br): ferramenta online desenvolvida com Angular v22 para auxiliar produtores rurais no cálculo do consumo hídrico de lavouras, utilizando dados da Embrapa. Projeto construído como parte de um Projeto de Extensão universitário.
 
-Nas horas vagas, para ter uma renda extra e *"não ficar parado"*, desenvolvo projetos de **sites e aplicações, marketing digital, gerenciamento de tráfego pago etc.**, para **empresas de pequeno e médio porte**. Minha marca está com o **Registro de Marca e Patente** em fase final de análise de mérito do **INPI - Instituto Nacional de Propriedade Industrial**, aguardando pela última etapa para o deferimento da marca, que deve acontecer nos próximos meses.
+📡 [Hidrômetro Inteligente com Arduino](https://youtu.be/6pNYZCUvZbc?si=LC54_d03OmEmmOeZ): protótipo de automação para medição inteligente de consumo hídrico, integrando conceitos de IoT e controle em tempo real.
 
-Tenho conhecimentos em **Angular, .NET, Node, Python, MySQL, SSMS (Microsoft Server SQL Management Studio), Azure**, e como trabalhar com **IAs como o ChatGPT**. Atualmente, estou em fase inicial de desenvolvimento de uma **IA em Python**, utilizando bibliotecas como **OpenCV e TensorFlow** para **reconhecimento facial**. Além disso, tenho conhecimento em **GitHub Actions** para trabalhar com **workflows**.
+🌞 [Artigo Científico](https://www.even3.com.br/anais/contech2022/531057-brasil--o-gasto-energetico-nos-ultimos-11-anos-e-como-a-energia-solar-pode-ajudar-a-sociedade/) - CONTECH 2022: "Brasil: o gasto energético nos últimos 11 anos e como a energia solar pode ajudar a sociedade". De minha autoria, o artigo analisa o crescimento do consumo energético e propõe a energia solar como solução sustentável.
 
-Sempre estive disposto a me desafiar e estar em **constante evolução** como pessoa e como profissional. Por isso, não meço esforços, foco e força de vontade para **aprender sempre mais**. Mesmo com minha **graduação se aproximando** (o que deve ocorrer em meados de **agosto de 2026**), já estou me preparando para minha **pós-graduação e mestrado**.
+🎓 Atualmente curso Engenharia de Software na Anhanguera, com conclusão prevista para dezembro de 2026, já me preparando para pós-graduação e mestrado.
+
+🧠 Tecnologias e ferramentas que utilizo:
+Frontend: Angular, Bootstrap, SCSS;
+Backend: .NET/C#, Node.js, Python;
+Banco de Dados: MySQL, SQL Server (SSMS);
+Cloud & DevOps: Azure, GitHub Actions (CI/CD);
+IA e Visão Computacional: Python, OpenCV, TensorFlow;
+Outros: Arduino, ChatGPT, DeepSeek, ferramentas de automação e APIs;
+
+🚀 Estou em constante evolução, sempre aprendendo, experimentando e colaborando com a comunidade. Acredito na construção de um futuro tecnológico mais acessível, sustentável e inovador.
 
 
 ---
