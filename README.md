@@ -65,11 +65,11 @@ Sou Gustavo Koglin, Analista Desenvolvedor de Sistemas Jr. na Tata Consultancy S
 
 💡 Principais projetos e iniciativas:
 
-💧 [IrrigaCalc](https://www.irrigacalc.net.br): ferramenta online desenvolvida com Angular v22 para auxiliar produtores rurais no cálculo do consumo hídrico de lavouras, utilizando dados da Embrapa. Projeto construído como parte de um Projeto de Extensão universitário.
+💧 <a href="https://www.irrigacalc.net.br" target="_blank">IrrigaCalc</a>: ferramenta online desenvolvida com Angular v22 para auxiliar produtores rurais no cálculo do consumo hídrico de lavouras, utilizando dados da Embrapa. Projeto construído como parte de um Projeto de Extensão universitário.
 
-📡 [Hidrômetro Inteligente com Arduino](https://youtu.be/6pNYZCUvZbc?si=LC54_d03OmEmmOeZ): protótipo de automação para medição inteligente de consumo hídrico, integrando conceitos de IoT e controle em tempo real.
+📡 <a href="https://youtu.be/6pNYZCUvZbc?si=LC54_d03OmEmmOeZ" target="_blank">Hidrômetro Inteligente</a>: protótipo de automação para medição inteligente de consumo de água para residências, empresas e indústrias, integrando conceitos de IoT e controle em tempo real utilizando Arduino e sensores.
 
-🌞 [Artigo Científico](https://www.even3.com.br/anais/contech2022/531057-brasil--o-gasto-energetico-nos-ultimos-11-anos-e-como-a-energia-solar-pode-ajudar-a-sociedade/) - CONTECH 2022: "Brasil: o gasto energético nos últimos 11 anos e como a energia solar pode ajudar a sociedade". De minha autoria, o artigo analisa o crescimento do consumo energético e propõe a energia solar como solução sustentável.
+🌞 <a href="https://www.even3.com.br/anais/contech2022/531057-brasil--o-gasto-energetico-nos-ultimos-11-anos-e-como-a-energia-solar-pode-ajudar-a-sociedade/" target="_blank">Artigo Científico</a>  - CONTECH 2022: "Brasil: o gasto energético nos últimos 11 anos e como a energia solar pode ajudar a sociedade". De minha autoria, o artigo analisa o crescimento do consumo energético e propõe a energia solar como solução sustentável.
 
 🎓 Atualmente curso Engenharia de Software na Anhanguera, com conclusão prevista para dezembro de 2026, já me preparando para pós-graduação e mestrado.
 
