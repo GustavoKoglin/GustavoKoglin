@@ -1,20 +1,18 @@
-### Olá, meu nome é Gustavo Koglin, mas você pode me chamar de Guss! 👋  
+### Hi, my name is Gustavo Koglin, but you can call me Guss! 👋  
 
 <br/>
 
-<<< Estou cursando Bacharelado em Engenharia de Software no 4º semestre, com duração total de 7 semestres e previsão de formação para agosto de 2026. >>>  
+<<< I'm currently pursuing a Bachelor's degree in Software Engineering in my 4th semester, with a total duration of 7 semesters and expected graduation in August 2026. >>>  
 
 <br/>
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GustavoKoglin&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&locale=pt-br&cache_seconds=120)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GustavoKoglin&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&locale=en&cache_seconds=120)
 
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoKoglin&layout=compact&theme=radical&langs_count=6&locale=pt-br&cache_seconds=60)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoKoglin&layout=compact&theme=radical&langs_count=6&locale=en&cache_seconds=60)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-### 🚀 Tecnologias que mais uso:
+### 🚀 Technologies I use most:
 <div style="display: inline_block">    
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
     <img align="center" alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />    
@@ -33,7 +31,7 @@
 </div>
 
 ---
-### 📚 Tecnologias que possuo conhecimentos:
+### 📚 Technologies I have knowledge of:
 <div style="display: inline_block">
     <img align="center" alt="SSMS" src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
     <img align="center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
@@ -44,7 +42,7 @@
 <div/>
     
 ---
-### 📚 Tecnologias que gostaria de aprender:
+### 📚 Technologies I'd like to learn:
 <div style="display: inline_block">
     <img align="center" alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
     <img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
@@ -60,34 +58,34 @@
 
 ---
 
-### 👋 Sobre mim
-Sou Gustavo Koglin, Analista Desenvolvedor de Sistemas Jr. na Tata Consultancy Services, entusiasta de tecnologia, inovação, robótica e IoT (Internet das Coisas). Estou sempre em busca de novos desafios e oportunidades de aprendizado, seja na área acadêmica, profissional ou em projetos pessoais.
+### 👋 About me
+I'm Gustavo Koglin, Junior Systems Development Analyst at Tata Consultancy Services, technology enthusiast, innovation, robotics and IoT (Internet of Things). I'm always looking for new challenges and learning opportunities, whether in academics, professional field or personal projects.
 
-💡 Principais projetos e iniciativas:
+💡 Main projects and initiatives:
 
-💧 [IrrigaCalc](https://www.irrigacalc.net.br): ferramenta online desenvolvida com Angular v22 para auxiliar produtores rurais no cálculo do consumo hídrico de lavouras, utilizando dados da Embrapa.
+💧 [IrrigaCalc](https://www.irrigacalc.net.br): online tool developed with Angular v22 to help farmers calculate water consumption in crops, using Embrapa data.
 
-📡 [Hidrômetro Inteligente](https://youtu.be/6pNYZCUvZbc?si=LC54_d03OmEmmOeZ): protótipo de automação com Arduino para medição de consumo de água, com foco em IoT.
+📡 [Smart Water Meter](https://youtu.be/6pNYZCUvZbc?si=LC54_d03OmEmmOeZ): Arduino automation prototype for water consumption measurement, focused on IoT.
 
-🌞 [Artigo Científico - CONTECH 2022](https://www.even3.com.br/anais/contech2022/531057-brasil--o-gasto-energetico-nos-ultimos-11-anos-e-como-a-energia-solar-pode-ajudar-a-sociedade/): "Brasil: o gasto energético nos últimos 11 anos e como a energia solar pode ajudar a sociedade".
+🌞 [Scientific Article - CONTECH 2022](https://www.doi.org/10.29327/1537526.2-1): "Brazil: energy expenditure in the last 11 years and how solar energy can help society" - This Article was written in Brazilian Portuguese.
 
 
-🎓 Atualmente curso Engenharia de Software na Anhanguera, com conclusão prevista para dezembro de 2026, já me preparando para pós-graduação e mestrado.
+🎓 I'm currently studying Software Engineering at Anhanguera, with expected completion in December 2026, already preparing for postgraduate studies and master's degree.
 
-🧠 Tecnologias e ferramentas que utilizo:
+🧠 Technologies and tools I use:
 Frontend: Angular, Bootstrap, SCSS;
 Backend: .NET/C#, Node.js, Python;
-Banco de Dados: MySQL, SQL Server (SSMS);
+Database: MySQL, SQL Server (SSMS);
 Cloud & DevOps: Azure, GitHub Actions (CI/CD);
-IA e Visão Computacional: Python, OpenCV, TensorFlow;
-Outros: Arduino, ChatGPT, DeepSeek, ferramentas de automação e APIs;
+AI and Computer Vision: Python, OpenCV, TensorFlow;
+Others: Arduino, ChatGPT, DeepSeek, automation tools and APIs;
 
-🚀 Estou em constante evolução, sempre aprendendo, experimentando e colaborando com a comunidade. Acredito na construção de um futuro tecnológico mais acessível, sustentável e inovador.
-
+🚀 I'm constantly evolving, always learning, experimenting and collaborating with the community. I believe in building a more accessible, sustainable and innovative technological future.
 
 ---
 
-### 📞 Contato:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](<mailto:engcomputacao.gustavokoglin@gmail.com>)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavokoglin/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5566981055829)
+### 📞 Contact:
+[![Personal Website](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://www.devgustavokoglin.com.br)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@devgustavokoglin.com.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavokoglin/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]([https://wa.me/+5566981055829](https://api.whatsapp.com/send/?phone=%2B5566981055829&text))
