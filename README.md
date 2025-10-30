@@ -2,7 +2,7 @@
 
 <br/>
 
-<<< I'm currently pursuing a Bachelor's degree in Software Engineering in my 4th semester, with a total duration of 7 semesters and expected graduation in December 2026. >>>  
+<<< I'm currently pursuing a Bachelor's degree in Software Engineering in my 5th semester, with a total duration of 7 semesters and expected graduation in December 2026. >>>  
 
 <br/>
 
