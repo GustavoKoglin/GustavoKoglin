@@ -6,9 +6,10 @@
 
 <br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GustavoKoglin&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&locale=en&cache_seconds=120)
+[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=GustavoKoglin&show_icons=true&theme=radical)](https://github.com/GustavoKoglin/github-readme-stats-fast)
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoKoglin&layout=compact&theme=radical&langs_count=6&locale=en&cache_seconds=60)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=GustavoKoglin&show_icons=true&theme=tokyonight)](https://github.com/GustavoKoglin)
+
 
 ---
 
