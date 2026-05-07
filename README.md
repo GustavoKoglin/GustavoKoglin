@@ -4,7 +4,7 @@
 
 ### Frontend Focused Full Stack Engineer
 
-Angular • React • TypeScript • UX/UI • Accessibility • REST APIs • Scalable Web Applications • AI Enhanced Development
+Angular • React • TypeScript • UX/UI • Accessibility • REST APIs • Scalable Web Applications • AI-Enhanced Development
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=950&lines=Frontend+Engineer+focused+on+Angular+and+React;UX%2FUI+and+Accessibility+(WCAG);REST+APIs+and+Enterprise+Integrations;Performance%2C+SEO+and+Scalable+Architecture;AI+Enhanced+Development+and+Automation" />
 
