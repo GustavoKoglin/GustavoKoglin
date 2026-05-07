@@ -33,7 +33,7 @@ Angular • React • TypeScript • UX/UI • Accessibility • REST APIs • S
 # About Me
 
 ```ts
-const gustavoKoglin = {
+export const gustavoKoglin: Profile = {
   role: "Frontend Software Engineer",
 
   focus: [
@@ -52,7 +52,6 @@ const gustavoKoglin = {
       "Angular (3+ years)",
       "Next.js (hands-on / learning)"
     ],
-
     languages: [
       "TypeScript",
       "JavaScript",
@@ -69,14 +68,12 @@ const gustavoKoglin = {
       "Semantic HTML",
       "Structured Data"
     ],
-
     performance: [
       "Core Web Vitals",
       "Lazy Loading",
       "Rendering Strategies",
       "Change Detection Optimization"
     ],
-
     analytics: [
       "Google Analytics",
       "Event Tracking"
@@ -90,7 +87,6 @@ const gustavoKoglin = {
       "OAuth 2.0",
       "Firebase Auth (3+ years)"
     ],
-
     integrations: [
       "Stripe",
       "Mercado Pago",
@@ -104,7 +100,6 @@ const gustavoKoglin = {
       "Scalable Frontend Systems",
       "Enterprise Frontend Architecture"
     ],
-
     optimization: [
       "Performance Optimization",
       "Lazy Loading",
@@ -129,7 +124,6 @@ const gustavoKoglin = {
       "Vercel",
       "Fly.io"
     ],
-
     devops: [
       "CI/CD with GitHub Actions (3+ years)",
       "Docker (3+ years)",
@@ -137,7 +131,6 @@ const gustavoKoglin = {
       "Terraform",
       "Kubernetes"
     ],
-
     observability: [
       "Grafana",
       "Snyk",
@@ -152,7 +145,6 @@ const gustavoKoglin = {
       "MySQL",
       "SQL Server"
     ],
-
     nosql: [
       "Firebase Firestore",
       "Realtime Database",
@@ -180,7 +172,6 @@ const gustavoKoglin = {
       "Cursor",
       "Google Antigravity"
     ],
-
     workflow: [
       "AI-driven development",
       "Code generation",
@@ -195,9 +186,8 @@ const gustavoKoglin = {
     "Cloud-Native Applications",
     "AI-Powered Products"
   ]
-}
+} as const;
 ```
-
 ---
 
 # GitHub Analytics
