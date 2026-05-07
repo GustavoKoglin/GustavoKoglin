@@ -1,92 +1,526 @@
-### Hi, my name is Gustavo Koglin, but you can call me Guss! 👋  
+<div align="center">
+
+# Gustavo Koglin
+
+### Frontend Focused Full Stack Engineer
+
+Angular • React • TypeScript • UX/UI • Accessibility • REST APIs • Scalable Web Applications • AI Enhanced Development
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=950&lines=Frontend+Engineer+focused+on+Angular+and+React;UX%2FUI+and+Accessibility+(WCAG);REST+APIs+and+Enterprise+Integrations;Performance%2C+SEO+and+Scalable+Architecture;AI+Enhanced+Development+and+Automation" />
 
 <br/>
 
-<<< I'm currently pursuing a Bachelor's degree in Software Engineering going to 6th semester in Feb 2026, with a total duration of 7 semesters and expected graduation in December 2026. >>>  
+<a href="https://www.devgustavokoglin.com.br">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefox&logoColor=white" title="Portfolio" />
+</a>
 
-<br/>
+<a href="https://www.linkedin.com/in/gustavokoglin/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" />
+</a>
 
-[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=GustavoKoglin&show_icons=true&theme=radical)](https://github.com/GustavoKoglin/github-readme-stats-fast)
+<a href="mailto:contato@devgustavokoglin.com.br">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" title="Email" />
+</a>
 
-[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=GustavoKoglin&show_icons=true&theme=tokyonight)](https://github.com/GustavoKoglin)
+<a href="https://api.whatsapp.com/send/?phone=%2B5566981055829&text">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" title="WhatsApp" />
+</a>
 
-
----
-
-### 🚀 Technologies I use most:
-<div style="display: inline_block">    
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-    <img align="center" alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />    
-    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /><br/><br/>
-    <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-    <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br/><br/>
-    <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img align="center" alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-    <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-    <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-    <img align="center" alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" /><br/><br/>
 </div>
 
 ---
-### 📚 Technologies I have knowledge of:
-<div style="display: inline_block">
-    <img align="center" alt="SSMS" src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-    <img align="center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-    <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-    <img align="center" alt="CSharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /><br/><br/>
-    <img align="center" alt="Google Tag Manager" src="https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=for-the-badge&logo=google-tag-manager&logoColor=white" />
-    <img align="center" alt="Google Search Console" src="https://img.shields.io/badge/Google_Search_Console-4285F4?style=for-the-badge&logo=google-search-console&logoColor=white" />
-<div/>
-    
+
+# About Me
+
+```ts
+const gustavoKoglin = {
+  role: "Frontend Software Engineer",
+
+  focus: [
+    "Angular 15+",
+    "React",
+    "TypeScript",
+    "UX/UI",
+    "WCAG Accessibility",
+    "REST APIs",
+    "Scalable Web Applications"
+  ],
+
+  frontend: {
+    frameworks: [
+      "React (2+ years)",
+      "Angular (3+ years)",
+      "Next.js (hands-on / learning)"
+    ],
+
+    languages: [
+      "TypeScript",
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "SCSS"
+    ]
+  },
+
+  webAndGrowth: {
+    seo: [
+      "Technical SEO",
+      "Metadata Optimization",
+      "Semantic HTML",
+      "Structured Data"
+    ],
+
+    performance: [
+      "Core Web Vitals",
+      "Lazy Loading",
+      "Rendering Strategies",
+      "Change Detection Optimization"
+    ],
+
+    analytics: [
+      "Google Analytics",
+      "Event Tracking"
+    ]
+  },
+
+  apisAndIntegrations: {
+    experience: [
+      "REST APIs (3+ years)",
+      "WebSockets (1+ years)",
+      "OAuth 2.0",
+      "Firebase Auth (3+ years)"
+    ],
+
+    integrations: [
+      "Stripe",
+      "Mercado Pago",
+      "Enterprise Integrations"
+    ]
+  },
+
+  architectureAndPerformance: {
+    architecture: [
+      "Modular Architecture (Angular / React)",
+      "Scalable Frontend Systems",
+      "Enterprise Frontend Architecture"
+    ],
+
+    optimization: [
+      "Performance Optimization",
+      "Lazy Loading",
+      "Change Detection",
+      "Rendering Optimization"
+    ]
+  },
+
+  backend: {
+    technologies: [
+      "Node.js / Express (3+ years)",
+      "ASP.NET Core (2+ years practical experience)",
+      "Java (basic knowledge)",
+      "Golang (basic knowledge)"
+    ]
+  },
+
+  cloudAndDevOps: {
+    infrastructure: [
+      "Azure",
+      "Google Cloud Platform",
+      "Vercel",
+      "Fly.io"
+    ],
+
+    devops: [
+      "CI/CD with GitHub Actions (3+ years)",
+      "Docker (3+ years)",
+      "ArgoCD (practical knowledge)",
+      "Terraform",
+      "Kubernetes"
+    ],
+
+    observability: [
+      "Grafana",
+      "Snyk",
+      "Monitoring",
+      "Observability"
+    ]
+  },
+
+  databases: {
+    sql: [
+      "PostgreSQL (Supabase) • 3+ years",
+      "MySQL",
+      "SQL Server"
+    ],
+
+    nosql: [
+      "Firebase Firestore",
+      "Realtime Database",
+      "Firebase Storage",
+      "MongoDB (basic)"
+    ]
+  },
+
+  uxAndProduct: {
+    design: [
+      "Figma",
+      "Figma Make",
+      "Interaction Design (UX)",
+      "UI Design",
+      "Accessibility (WCAG)"
+    ]
+  },
+
+  aiAssistedDevelopment: {
+    tooling: [
+      "GitHub Copilot",
+      "GPT-4/5",
+      "Claude",
+      "Gemini",
+      "Cursor",
+      "Google Antigravity"
+    ],
+
+    workflow: [
+      "AI-driven development",
+      "Code generation",
+      "Workflow automation",
+      "Debugging",
+      "Productivity optimization"
+    ]
+  },
+
+  currentlyBuilding: [
+    "Enterprise SaaS Platforms",
+    "Cloud-Native Applications",
+    "AI-Powered Products"
+  ]
+}
+```
+
 ---
-### 📚 Technologies I'd like to learn:
-<div style="display: inline_block">
-    <img align="center" alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-    <img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-    <img align="center" alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /><br/><br/>
-    <img align="center" alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-    <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-    <img align="center" alt="CPlusPlus" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
-    <img align="center" alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=GustavoKoglin&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GustavoKoglin&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
-<br/>
-<br/>
 
 ---
 
-### 👋 About me
-I'm Gustavo Koglin, Junior Systems Development Analyst at Tata Consultancy Services, technology enthusiast, innovation, robotics and IoT (Internet of Things). I'm always looking for new challenges and learning opportunities, whether in academics, professional field or personal projects.
+# Frontend Engineering Stack
 
-💡 Main projects and initiatives:
+<div align="center">
 
-💧 [IrrigaCalc](https://www.irrigacalc.net.br): online tool developed with Angular v22 to help farmers calculate water consumption in crops, using Embrapa data.
+## Frontend
 
-📡 [Smart Water Meter](https://youtu.be/6pNYZCUvZbc?si=LC54_d03OmEmmOeZ): Arduino automation prototype for water consumption measurement, focused on IoT.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular" title="Angular" alt="Angular" width="48"/>
+  <img src="https://skillicons.dev/icons?i=react" title="React" alt="React" width="48"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" alt="Next.js" width="48"/>
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" alt="TypeScript" width="48"/>
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" width="48"/>
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5" width="48"/>
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3" width="48"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" alt="Tailwind CSS" width="48"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" alt="Bootstrap" width="48"/>
+</p>
 
-🌞 [Scientific Article - CONTECH 2022](https://www.doi.org/10.29327/1537526.2-1): "Brazil: energy expenditure in the last 11 years and how solar energy can help society" - This Article was written in Brazilian Portuguese.
-
-
-🎓 I'm currently studying Software Engineering at Anhanguera, with expected completion in December 2026, already preparing for postgraduate studies and master's degree.
-
-🧠 Technologies and tools I use:
-Frontend: Angular, Bootstrap, SCSS;
-Backend: .NET/C#, Node.js, Python;
-Database: MySQL, SQL Server (SSMS);
-Cloud & DevOps: Azure, GitHub Actions (CI/CD);
-AI and Computer Vision: Python, OpenCV, TensorFlow;
-Others: Arduino, ChatGPT, DeepSeek, automation tools and APIs;
-
-🚀 I'm constantly evolving, always learning, experimenting and collaborating with the community. I believe in building a more accessible, sustainable and innovative technological future.
+`Angular` • `React` • `Next.js` • `TypeScript` • `JavaScript` • `SCSS`
 
 ---
 
-### 📞 Contact:
-[![Personal Website](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://www.devgustavokoglin.com.br)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@devgustavokoglin.com.br)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavokoglin/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]([https://wa.me/+5566981055829](https://api.whatsapp.com/send/?phone=%2B5566981055829&text))
+## APIs and Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" width="48"/>
+  <img src="https://skillicons.dev/icons?i=express" title="Express.js" alt="Express.js" width="48"/>
+  <img src="https://skillicons.dev/icons?i=dotnet" title=".NET" alt=".NET" width="48"/>
+  <img src="https://skillicons.dev/icons?i=cs" title="C#" alt="C#" width="48"/>
+  <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" alt="Firebase" width="48"/>
+  <img src="https://skillicons.dev/icons?i=supabase" title="Supabase" alt="Supabase" width="48"/>
+  <img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java" width="48"/>
+  <img src="https://skillicons.dev/icons?i=go" title="Golang" alt="Golang" width="48"/>
+</p>
+
+`REST APIs` • `WebSockets` • `OAuth 2.0` • `Firebase Auth` • `Stripe` • `Mercado Pago`
+
+---
+
+## Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" width="48"/>
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server" alt="SQL Server" width="48"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="MongoDB" width="48"/>
+  <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" alt="Firebase" width="48"/>
+</p>
+
+`PostgreSQL` • `MySQL` • `SQL Server` • `MongoDB` • `Firestore`
+
+---
+
+## Cloud and DevOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure" title="Azure" alt="Azure" width="48"/>
+  <img src="https://skillicons.dev/icons?i=gcp" title="Google Cloud Platform" alt="Google Cloud Platform" width="48"/>
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" width="48"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" alt="Kubernetes" width="48"/>
+  <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" alt="GitHub Actions" width="48"/>
+  <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" width="48"/>
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" width="48"/>
+  <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" alt="Vercel" width="48"/>
+  <img src="https://skillicons.dev/icons?i=terraform" title="Terraform" alt="Terraform" width="48"/>
+</p>
+
+`CI/CD` • `Docker` • `Kubernetes` • `Terraform` • `GitHub Actions`
+
+---
+
+## Observability and Security
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=grafana" title="Grafana" alt="Grafana" width="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=snyk" title="Snyk" alt="Snyk" width="48"/>
+</p>
+
+`Grafana` • `Snyk` • `Monitoring` • `Observability`
+
+---
+
+## UX UI and Performance
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma" title="Figma" alt="Figma" width="48"/>
+  <img src="https://skillicons.dev/icons?i=vite" title="Vite" alt="Vite" width="48"/>
+  <img src="https://skillicons.dev/icons?i=webpack" title="Webpack" alt="Webpack" width="48"/>
+</p>
+
+`WCAG Accessibility` • `Design Systems` • `Core Web Vitals` • `Technical SEO`
+
+---
+
+## AI-Assisted Development
+
+<div style="display:flex; justify-content:center; gap:24px; align-items:center;">
+
+  <img src="https://www.searchyour.ai/archivos/antigravity-google-ai-logo.jpg" width="48" title="Google Antigravity" />
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png" width="48" title="Cursor" />
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude.png" width="48" title="Claude" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="48" title="GPT-4/5" />
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/gemini.png" width="48" title="Gemini" />
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/githubcopilot.png" width="48" title="GitHub Copilot" />
+
+</div>
+
+<p align="center">
+  <code>AI Driven Development</code> • <code>Automation</code> • <code>Code Generation</code> • <code>Developer Productivity</code>
+</p>
+
+</div>
+
+
+---
+
+# Featured Enterprise Projects
+
+## Plataforma CMS
+
+Enterprise CMS platform designed for scalable publishing workflows, SaaS ecosystems, and enterprise operations.
+
+### Highlights
+
+- Angular 20
+- Node.js and Express
+- Firebase ecosystem
+- Kubernetes ready architecture
+- GitOps with Argo CD
+- RBAC and MFA ready flows
+- Enterprise admin dashboard
+- CI/CD pipelines
+
+### Stack
+
+`Angular` • `Node.js` • `Express` • `Firebase` • `Docker` • `Kubernetes`
+
+### Links
+
+🌐 https://www.foreigntechnologies.com.br/landing-pages/plataforma-cms
+
+🚀 https://plataformacms.vercel.app/
+
+🎥 https://youtu.be/dvE67gEmzvg
+
+---
+
+## ProdSight
+
+Modern Angular SaaS frontend for catalog management, analytics, and enterprise operations.
+
+### Highlights
+
+- Angular 21
+- Standalone Components
+- RBAC UI
+- Analytics dashboards
+- PDF, CSV, and XLSX exports
+- Multi language support
+- Responsive architecture
+
+### Stack
+
+`Angular` • `TypeScript` • `RxJS` • `Charts` • `Export Services`
+
+### Links
+
+🌐 https://www.foreigntechnologies.com.br/templates/prodsight
+
+🚀 https://prodsight.vercel.app/
+
+🎥 https://youtu.be/j7yR4-KyIao
+
+---
+
+## AgroTech
+
+Enterprise React platform for agribusiness management and operational analytics.
+
+### Highlights
+
+- React 18 and TypeScript
+- AI ready architecture
+- Tactical dashboards
+- Fleet and telemetry management
+- Financial analytics
+- Multi tenant SaaS structure
+
+### Stack
+
+`React` • `TypeScript` • `Analytics` • `Dashboard Systems`
+
+### Links
+
+🌐 https://www.foreigntechnologies.com.br/erps/agrotech
+
+🚀 https://agrotech-ochre.vercel.app/
+
+🎥 https://youtu.be/YaX7-ugvkIc
+
+---
+
+## MedSys
+
+Healthcare ERP frontend platform focused on scalable hospital and clinic operations.
+
+### Highlights
+
+- React 18
+- Tailwind CSS
+- Radix UI
+- Framer Motion
+- Adaptive RBAC dashboards
+- Telemedicine flows
+- EMR oriented UI
+
+### Stack
+
+`React` • `Tailwind CSS` • `Radix UI` • `Framer Motion`
+
+### Links
+
+🌐 https://www.foreigntechnologies.com.br/erps/medsys
+
+🚀 https://medsys-erp.vercel.app/
+
+🎥 https://youtu.be/HCMEY9Y6E2U
+
+---
+
+# Professional Experience
+
+## WEX Brasil Tech
+
+### Software Development Engineer • Platform Engineering
+
+Jun 2025 — Present
+
+- Platform engineering in high scale cloud environments
+- Automation initiatives impacting 9,000+ repositories
+- CI/CD standardization using GitHub Actions and Docker
+- Observability dashboards with Grafana
+- Distributed engineering collaboration
+- Platform scalability and reliability initiatives
+
+### Stack
+
+`JavaScript` • `Shell Script` • `GitHub Actions` • `Docker` • `Grafana`
+
+---
+
+## Foreign Technologies
+
+### Software Engineer
+
+Mar 2022 — Jan 2026
+
+- Built scalable frontend applications using Angular and TypeScript
+- Developed modular enterprise frontend architectures
+- Integrated REST APIs and payment systems
+- Built real time features with WebSockets
+- Used Firebase ecosystem for backend and infrastructure
+- Developed multilingual SaaS applications
+- Improved performance using lazy loading and rendering optimization
+
+### Stack
+
+`Angular` • `TypeScript` • `Firebase` • `Supabase` • `Stripe`
+
+---
+
+## Tata Consultancy Services (TCS)
+
+### Software Development Engineer
+
+Apr 2023 — May 2025
+
+- Developed enterprise systems for Vale S.A.
+- Built Angular applications integrated with ASP.NET Core services
+- Worked with REST APIs and enterprise integrations
+- Applied technical SEO and performance optimization
+- Collaborated with cross functional engineering teams
+- Supported Petrobras projects during the final months
+
+### Stack
+
+`Angular` • `TypeScript` • `ASP.NET Core` • `REST APIs`
+
+---
+
+# Current Focus
+
+<div align="center">
+
+| Frontend | Architecture | UX/UI | APIs | Performance |
+|---|---|---|---|---|
+| Angular | Scalable Systems | WCAG | REST APIs | Core Web Vitals |
+| React | Modular Frontends | Accessibility | ASP.NET Core | Lazy Loading |
+| TypeScript | Enterprise Apps | Design Systems | Firebase | Technical SEO |
+| Next.js | SaaS Platforms | Responsive UI | Node.js | Rendering Optimization |
+
+</div>
+
+---
+
+<div align="center">
+
+## Frontend Engineer focused on performance, accessibility, scalability, and modern product development.
+
+<img src="https://komarev.com/ghpvc/?username=GustavoKoglin&style=for-the-badge&color=blue" />
+
+</div>
