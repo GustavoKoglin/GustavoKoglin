@@ -2,7 +2,7 @@
 
 # Gustavo Koglin
 
-### Frontend Focused Full Stack Engineer
+### FullStak Software Engineer - Frontend Focused 
 
 Angular • React • TypeScript • UX/UI • Accessibility • REST APIs • Scalable Web Applications • AI-Enhanced Development
 
