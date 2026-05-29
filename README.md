@@ -37,7 +37,7 @@ export const gustavoKoglin: Profile = {
   role: "Frontend Software Engineer",
 
   focus: [
-    "Angular 15+",
+    "Angular v15+",
     "React",
     "TypeScript",
     "UX/UI",
@@ -48,9 +48,10 @@ export const gustavoKoglin: Profile = {
 
   frontend: {
     frameworks: [
-      "React (2+ years)",
-      "Angular (3+ years)",
-      "Next.js (hands-on / learning)"
+      "React.js",
+      "Angular v15+",
+      "Next.js (hands-on / learning)",
+      "Prototyping with Fimga
     ],
     languages: [
       "TypeScript",
