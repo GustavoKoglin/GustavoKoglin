@@ -2,7 +2,7 @@
 
 # Gustavo Koglin
 
-### FullStak Software Engineer - Frontend Focused 
+### Product Engineer | Foreign Technologies Founder | Building AI-Powered Products & Business Systems | 0→1 Development | BRL 700K+ in Product Development Value 
 
 Angular • React • TypeScript • UX/UI • Accessibility • REST APIs • Scalable Web Applications • AI-Enhanced Development
 
