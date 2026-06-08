@@ -2,28 +2,32 @@
 
 # Gustavo Koglin
 
-### Product Engineer | Foreign Technologies Founder | Building AI-Powered Products & Business Systems | 0→1 Development | BRL 700K+ in Product Development Value 
+### Product Engineer | Founder @ Foreign Technologies | Building AI-Powered Products, SaaS Platforms & Business Systems | 0→1 Product Development
 
-Angular • React • TypeScript • UX/UI • Accessibility • REST APIs • Scalable Web Applications • AI-Enhanced Development
+Angular • React • TypeScript • Product Engineering • AI-Assisted Development • Cloud-Native Applications
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=950&lines=Frontend+Engineer+focused+on+Angular+and+React;UX%2FUI+and+Accessibility+(WCAG);REST+APIs+and+Enterprise+Integrations;Performance%2C+SEO+and+Scalable+Architecture;AI+Enhanced+Development+and+Automation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=950&lines=Product+Engineer+focused+on+building+scalable+digital+products;Angular+and+React+for+modern+web+applications;AI+Enhanced+Development+and+Automation;Enterprise+Architecture+and+Cloud+Native+Systems;From+Idea+to+Production+(0→1+Development)" />
 
 <br/>
 
+<a href="https://www.foreigntechnologies.com.br">
+  <img src="https://img.shields.io/badge/Foreign%20Technologies-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Foreign Technologies" />
+</a>
+
 <a href="https://www.devgustavokoglin.com.br">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefox&logoColor=white" title="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
 
 <a href="https://www.linkedin.com/in/gustavokoglin/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 <a href="mailto:contato@devgustavokoglin.com.br">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" title="Email" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
-<a href="https://api.whatsapp.com/send/?phone=%2B5566981055829&text">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" title="WhatsApp" />
+<a href="https://api.whatsapp.com/send/?phone=5566981055829">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </a>
 
 </div>
