@@ -87,10 +87,10 @@ export const gustavoKoglin: Profile = {
 
   apisAndIntegrations: {
     experience: [
-      "REST APIs (3+ years)",
-      "WebSockets (1+ years)",
+      "REST APIs",
+      "WebSockets",
       "OAuth 2.0",
-      "Firebase Auth (3+ years)"
+      "Firebase Auth"
     ],
     integrations: [
       "Stripe",
@@ -124,14 +124,18 @@ export const gustavoKoglin: Profile = {
 
   cloudAndDevOps: {
     infrastructure: [
+      "Firebase",
       "Azure",
       "Google Cloud Platform",
+      "AWS",
       "Vercel",
+      "Netlify",
+      "Heroku",
       "Fly.io"
     ],
     devops: [
-      "CI/CD with GitHub Actions (3+ years)",
-      "Docker (3+ years)",
+      "CI/CD with GitHub Actions",
+      "Docker",
       "ArgoCD (practical knowledge)",
       "Terraform",
       "Kubernetes"
@@ -146,7 +150,7 @@ export const gustavoKoglin: Profile = {
 
   databases: {
     sql: [
-      "PostgreSQL (Supabase) • 3+ years",
+      "PostgreSQL (Supabase)",
       "MySQL",
       "SQL Server"
     ],
