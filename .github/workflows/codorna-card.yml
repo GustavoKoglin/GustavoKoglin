@@ -11,10 +11,7 @@ permissions:
 jobs:
   codorna-card:
     runs-on: ubuntu-latest
-    steps:
-      - uses: GabrielKoglin/codorna-card@v1
-        with:
-          private-contributions: true          
+    steps:       
       - uses: GabrielKoglin/codorna-card@v1
         with:
           private-contributions: true
