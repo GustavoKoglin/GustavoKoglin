@@ -10,8 +10,6 @@ Angular • React • TypeScript • Product Engineering • AI-Assisted Develop
 
 <br/>
 
-![Codorna Card](codorna-card.svg)
-
 <a href="https://www.foreigntechnologies.com.br">
   <img src="https://img.shields.io/badge/Foreign%20Technologies-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Foreign Technologies" />
 </a>
